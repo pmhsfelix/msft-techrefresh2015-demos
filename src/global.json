@@ -1,6 +1,12 @@
 {
     "projects": [
         "src",
-        "C:/home/code/cli/asp.net.5/Hosting/src"
+        "C:/home/code/cli/asp.net.5/Mvc/src",
+        "C:/home/code/cli/asp.net.5/Routing/src",
+        "C:/home/code/cli/asp.net.5/HttpAbstractions/src",
+         "C:/home/code/cli/asp.net.5/Hosting/src"
     ]
+    , "sdk": {
+        "version": "1.0.0-beta4"
+    }
 }

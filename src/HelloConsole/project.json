@@ -1,13 +1,14 @@
 ﻿{
-  "version": "1.0.0-*",
-  "description": "",
-  "authors": [ "" ],
-  "tags": [ "" ],
-  "projectUrl": "",
-  "licenseUrl": "",
+    "version": "1.0.0-*",
+    "description": "",
+    "authors": [ "" ],
+    "tags": [ "" ],
+    "projectUrl": "",
+    "licenseUrl": "",
 
-  "dependencies": {
-  },
+    "dependencies": {
+        "Microsoft.Framework.DependencyInjection": "1.0.0-beta4"
+    },
 
   "commands": {
     "HelloConsole" : "HelloConsole"
